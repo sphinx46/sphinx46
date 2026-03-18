@@ -12,7 +12,7 @@ Hi 👋, my name is Ilya and I am a beginner Java developer. <br>Every day I try
 <h3 align="left">
 Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,nginx,bash" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,nginx,bash,kafka,grafana,prometheus,mongo,redis,kubernetes" />
     <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
 

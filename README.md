@@ -3,7 +3,7 @@
 > <p>
 >   <i>
 >             
-Hi 👋, my name is Ilya and I am a beginner Java developer. <br>Every day I try to become better than I was yesterday. <br>Thanks for visiting my profile! <br>Happy coding! 💻🫶
+Hi 👋, my name is Ilya and I am a Java developer. <br>Every day I try to become better than I was yesterday. <br>Thanks for visiting my profile! <br>Happy coding! 💻🫶
            </i>
          </p>
 
